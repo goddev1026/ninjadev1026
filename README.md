@@ -5,7 +5,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    I am Professional Web developer.
+    I am Professional Web & Mobile developer.
   <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -15,7 +15,7 @@
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
-Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
+Enthusiastic Web & Mobile Developer who loves to create effective websites and work with businesses to help them grow.
 <br>
 <h2 align="center">🔥 My skills 🔥</h2>
 <hr>
